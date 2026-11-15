@@ -1,0 +1,9 @@
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.ogg
+project.json
+.local/
+.DS_Store
+Thumbs.db
