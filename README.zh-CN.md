@@ -6,11 +6,13 @@
 每首曲子有固定的介绍页面，适合放在视频简介、音乐平台和个人页面中。
 下载 MusicXML 后，可使用 LocalTab 或其他支持吉他/贝斯 TAB 的记谱软件打开。
 
+<!-- localtab:catalog:start -->
 ## 曲谱目录
 
-| 曲谱 | 乐器 | 调弦（粗弦 → 细弦） | 链接 |
+| Score / 曲谱 | Instrument / 乐器 | Tuning / 调弦 | Downloads / 下载 |
 | --- | --- | --- | --- |
-| 【スパロボOGs】 悪を断つ剣 | 五弦贝斯 | B0 E1 A1 D2 G2 | [曲谱页面](scores/aku-wo-tatsu-tsurugi/README.md) · [MusicXML](scores/aku-wo-tatsu-tsurugi/score.musicxml) · [原始文件](https://raw.githubusercontent.com/phageous01/LocalTab-Scores/main/scores/aku-wo-tatsu-tsurugi/score.musicxml) |
+| 悪を断つ剣 | Modern Bass | B0 E1 A1 D2 G2 | [Page / 页面](scores/aku-wo-tatsu-tsurugi/README.md) · [MusicXML](scores/aku-wo-tatsu-tsurugi/score.musicxml) · [PDF](scores/aku-wo-tatsu-tsurugi/score.pdf) |
+<!-- localtab:catalog:end -->
 
 ## 下载和使用
 

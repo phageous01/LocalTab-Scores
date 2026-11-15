@@ -7,11 +7,13 @@ Each score has a stable landing page suitable for linking from video description
 music platforms and profile pages. Download the MusicXML and open it in LocalTab
 or another notation program that supports guitar/bass tablature.
 
+<!-- localtab:catalog:start -->
 ## Score index
 
-| Score | Instrument | Tuning (low → high) | Links |
+| Score / 曲谱 | Instrument / 乐器 | Tuning / 调弦 | Downloads / 下载 |
 | --- | --- | --- | --- |
-| 【スパロボOGs】 悪を断つ剣 | Five-string bass | B0 E1 A1 D2 G2 | [Score page](scores/aku-wo-tatsu-tsurugi/README.md) · [MusicXML](scores/aku-wo-tatsu-tsurugi/score.musicxml) · [Raw file](https://raw.githubusercontent.com/phageous01/LocalTab-Scores/main/scores/aku-wo-tatsu-tsurugi/score.musicxml) |
+| 悪を断つ剣 | Modern Bass | B0 E1 A1 D2 G2 | [Page / 页面](scores/aku-wo-tatsu-tsurugi/README.md) · [MusicXML](scores/aku-wo-tatsu-tsurugi/score.musicxml) · [PDF](scores/aku-wo-tatsu-tsurugi/score.pdf) |
+<!-- localtab:catalog:end -->
 
 ## Download and use
 

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "scores": {
+    "aku-wo-tatsu-tsurugi": {
+      "title": "悪を断つ剣",
+      "instrument": "Modern Bass",
+      "tuning": [
+        "B0",
+        "E1",
+        "A1",
+        "D2",
+        "G2"
+      ],
+      "measures": 80,
+      "meter": "4/4",
+      "tempo": "134",
+      "publishedAt": "2026-11-15T21:26:39+00:00"
+    }
+  }
+}

@@ -32,3 +32,20 @@ as revisions are published. MP3s and recording synchronization are not included.
 原作品权利归相应权利人；不适用 LocalTab 软件的 MIT 许可证。
 Rights in the composition remain with its respective owners; the LocalTab software
 MIT license does not apply to this score.
+
+<!-- localtab:downloads:start -->
+## 下载 / Downloads
+
+**[PDF 预览与下载 / View PDF](score.pdf)** · **[MusicXML](score.musicxml)**
+
+悪を断つ剣
+
+Modern Bass · 80 小节 / measures · 4/4 · ♩ = 134
+
+调弦 / Tuning: B0 E1 A1 D2 G2
+
+更新 / Updated: 2026-11-15T21:26:39+00:00
+
+由 LocalTab 发布 MusicXML 与 PDF。原作品权利归相应权利人；软件 MIT 许可证不适用于乐谱。
+Published with LocalTab. Composition rights remain with their owners; the software MIT license does not apply to scores.
+<!-- localtab:downloads:end -->
